@@ -28,7 +28,7 @@
     "@magento/venia-drivers": "src/drivers"
   },
   "dependencies": {
-    "@larsroettig/component-targetables": "link:/home/roettigl/vscode/component-targetables",
+    "@larsroettig/component-targetables": "~2.0",
     "@magento/pwa-buildpack": "~10.0.0"
   },
   "devDependencies": {
