@@ -1,0 +1,4 @@
+.closed {
+    composes: closed from '~@magento/venia-ui/lib/components/Header/header.css';
+    background-color: rgb(var(--venia-global-color-gray-200));
+}

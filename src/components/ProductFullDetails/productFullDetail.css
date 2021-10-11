@@ -1,0 +1,5 @@
+.root {
+    compose: root from
+        '@magento/venia-ui/lib/components/ProductFullDetail/productFullDetail.css';
+    border: 5px solid black;
+}

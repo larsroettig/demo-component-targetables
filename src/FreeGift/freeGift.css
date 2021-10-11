@@ -1,0 +1,6 @@
+.root {
+    background-color: #baa683;
+    text-align: center;
+    padding: 1rem 0;
+    color: rgb(var(--venia-global-color-gray-50));
+}
