@@ -4,3 +4,7 @@
     padding: 1rem 0;
     color: rgb(var(--venia-global-color-gray-50));
 }
+
+.msg{
+    font-weight: var(--venia-global-fontWeight-bold);
+}

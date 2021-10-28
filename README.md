@@ -3,7 +3,7 @@
 This project shows you how you can  use `@larsroettig/component-targetables` to simplify your next project.
 
 
-##  Instalation
+## Installation
 ```
 yarn install
 yarn watch
